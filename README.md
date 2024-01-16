@@ -1,3 +1,20 @@
+
+Link to ghpages: https://madelynmarcotte.github.io/a1-ghd3/index.html
+
+Below are some, but not necessarily all, of the key points we will consider during grading:
+
+Circles and Rectangles
+Lines
+Paths
+Different colors
+README Quality
+A description of what you have created. 1-2 screenshots are recommended for the README.
+A working link to the hosted files (usually the gh-pages 'live' url)
+Section for Technical and Design Achievements
+Technical Achievement Desription -- 12
+Design Achievement Description -- 12
+
+
 Assignment 1 - Hello World: GitHub and d3  
 ===
 
