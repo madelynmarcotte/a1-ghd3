@@ -1,46 +1,31 @@
 <!DOCTYPE html>
-<html>
-<script src="//d3js.org/d3.v4.js"></script>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>D3.js Green Rectangle</title>
+  <!-- Include D3.js from CDN -->
+  <script src="https://d3js.org/d3.v5.min.js"></script>
+</head>
 <body>
-<h2>D3.js is Easy to Use</h2>
-<p>The script below selects the body element and appends a paragraph with the text "Hello World!":</p> 
 
-<script>
-d3.select("body").append("p").text("Hello World!");
-</script>
+  <!-- Your SVG container will be added here -->
+   // script.js
 
-<script>
-//Select SVG element
-var svg = d3.select('svg');
+// Select the body element and append an SVG container
+const svg = d3.select('body').append('svg')
+  .attr('width', 200)   // Set the width of the SVG
+  .attr('height', 100); // Set the height of the SVG
 
-//Create rectangle element inside SVG
+// Append a rectangle to the SVG
 svg.append('rect')
-   .attr('x', 50)
-   .attr('y', 50)
-   .attr('width', 200)
-   .attr('height', 100)
-   .attr('fill', 'green');
-</script>
-
-<script>
-  console.log(d3); // test if d3 is loaded
-  // Add an SVG
+  .attr('width', 150)    // Set the width of the rectangle
+  .attr('height', 50)    // Set the height of the rectangle
+  .attr('fill', 'green'); // Set the fill color to green
 
 
-  
-  // Add Rectangles
-
-  
-  // Add Circles
-
-  
-  // Add Lines
-
-  
-  // Add Polygons
-</script>
-
+  <!-- Include your script after D3.js -->
+  <script src="script.js"></script>
 </body>
-
-
 </html>
+
