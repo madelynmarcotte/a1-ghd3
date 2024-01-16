@@ -1,6 +1,12 @@
 
 Link to ghpages: https://madelynmarcotte.github.io/a1-ghd3/index.html
 
+code sources: https://www.freecodecamp.org/news/learn-d3-js-in-5-minutes-c5ec29fb0725/
+
+https://d3js.org/d3-drag
+
+https://d3-graph-gallery.com/graph/shape.html
+
 Below are some, but not necessarily all, of the key points we will consider during grading:
 
 Circles and Rectangles
