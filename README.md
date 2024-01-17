@@ -7,6 +7,8 @@ https://d3js.org/d3-drag
 
 https://d3-graph-gallery.com/graph/shape.html
 
+https://d3js.org/d3-path
+
 Below are some, but not necessarily all, of the key points we will consider during grading:
 
 Circles and Rectangles
