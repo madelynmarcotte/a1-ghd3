@@ -1,27 +1,25 @@
+Data Visualization Assignment 1 - Madelyn Marcotte
+===
+GitHub Pages Link: https://madelynmarcotte.github.io/a1-ghd3/index.html
 
-Link to ghpages: https://madelynmarcotte.github.io/a1-ghd3/index.html
+For Assignment 1, I created an interactive snowman page using shapes in d3.js as well as the drag and drop feature. 
+The image below shows the starting state of the page, and includes directions for the user to drag and drop the shapes to the side of the snowman and place them as they like to give him a face. 
 
-code sources: https://www.freecodecamp.org/news/learn-d3-js-in-5-minutes-c5ec29fb0725/
+<img width="541" alt="Screenshot 2024-01-17 115901" src="https://github.com/madelynmarcotte/a1-ghd3/assets/51792257/0927d1d0-2b35-4d29-99a5-42eee1fbcc4c">
 
-https://d3js.org/d3-drag
+Once the user is happy with their design, they can click the button in the corner to receive an encouraging message, as shown in the image below.
 
-https://d3-graph-gallery.com/graph/shape.html
+<img width="556" alt="image" src="https://github.com/madelynmarcotte/a1-ghd3/assets/51792257/bbfc5896-7b8e-4052-a385-473cb1847ce0">
 
-https://d3js.org/d3-path
+I utilized multiple guides for using d3 which are linked here: https://www.freecodecamp.org/news/learn-d3-js-in-5-minutes-c5ec29fb0725/, https://d3js.org/d3-drag, https://d3-graph-gallery.com/graph/shape.html
 
-Below are some, but not necessarily all, of the key points we will consider during grading:
+Technical Achievement 
+===
+I went beyond the instructions for this assignment by using the drag functionality of d3. I consulted an additional resource to learn how to implement this functionality in order to make my page more interesting and interactive.
 
-Circles and Rectangles
-Lines
-Paths
-Different colors
-README Quality
-A description of what you have created. 1-2 screenshots are recommended for the README.
-A working link to the hosted files (usually the gh-pages 'live' url)
-Section for Technical and Design Achievements
-Technical Achievement Desription -- 12
-Design Achievement Description -- 12
-
+Design Achievement
+===
+For this assignment I sought to make my documentation and user instructions clear and informative. I made sure to include all of the recommended components of the README file and sought to keep my tone professional. I also included directions on my page, to ensure that potential users would understand how to interact with the page, and kept the overall layout simple to prevent any potential confusion or cluttering. 
 
 Assignment 1 - Hello World: GitHub and d3  
 ===
