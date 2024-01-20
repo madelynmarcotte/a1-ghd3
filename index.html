@@ -4,12 +4,14 @@
 <p>Instructions: Drag the shapes below to give the snowman a face!</p>
 <body>
 
+/* create button */
 <button onclick="appendText()">Click Here When You Are Finished!</button>
 
+/* create header to be filled with text when button is clicked */
 <h2 id="header"></h2>
 
 <style>
-    /* style for the button */
+    /* add style for the button */
     button {
       padding: 8px;
       background-color: #4c86a8; /* blue*/
@@ -21,12 +23,13 @@
 
     /* make the button change color when hovering over it*/
     button:hover {
-      background-color: #194c6f; /* blue*/
+      background-color: #194c6f; /* dark blue*/
     }
 </style>
 
 <script>
-
+    
+// function for adding text to header when button is clicked
 function appendText() {
   // Select the header element
   const header = d3.select('#header');
