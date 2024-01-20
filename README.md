@@ -21,6 +21,9 @@ Design Achievement
 ===
 For this assignment I sought to make my documentation and user instructions clear and informative. I made sure to include all of the recommended components of the README file and sought to keep my tone professional. I also included directions on my page, to ensure that potential users would understand how to interact with the page, and kept the overall layout simple to prevent any potential confusion or cluttering. I added some style to the button in order to make the page a bit more appealing and less basic. 
 
+Start of original README
+===
+
 Assignment 1 - Hello World: GitHub and d3  
 ===
 
